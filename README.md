@@ -1,0 +1,2 @@
+Hur fungerar CSS-Arv?
+CSS-arv innebär att vissa CSS-regler kan gå från en förälder till dess barn. Det gäller till exempel color och font-family. I min kod är .hero föräldern och där inne finns bland annat h1 och p. Om jag sätter en färg på .hero kan texten där inne påverkas av den. Padding och bakgrund stannar dock på .hero. Jag använder klasserna .hero, .datum, .plats och .tagline i min kod. 
